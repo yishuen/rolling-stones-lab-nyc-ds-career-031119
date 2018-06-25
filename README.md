@@ -28,6 +28,8 @@ After we have our data formated the way we want it, we can now begin working on 
 
 ### Functions to build-out:
 
+Each of the following functions can be defined in the `functions.py` file. 
+
 * **Searching functions**
   * Find by name - Takes in a string that represents the name of an album. Should return a dictionary with the correct album, or return `None`.
   * Find by rank - Takes in a number that represents the rank in the list of top albums and returns the album with that rank. If there is no album with that rank, it returns `None`.
