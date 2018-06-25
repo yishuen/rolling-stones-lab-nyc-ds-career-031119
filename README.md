@@ -1,5 +1,5 @@
 
-# Instructions:
+# Rolling Stones Lab
 
 ## Getting Started
 In this exercise, we will be using data from the `top 500 rolling stone albums`. We have this data contained in the `data.csv` file. We will be building out the following functions to answer questions and interact with this data.
