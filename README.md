@@ -27,4 +27,4 @@ In this exercise, we will be using data from the `top 500 rolling stone albums`.
   * Artists with the most albums - Returns the artist with the highest amount of albums on the list of top albums 
   * Most popular word - Returns the word used most in amongst all album titles
   * Histogram of albums by decade - Returns a histogram with each decade pointing to the number of albums released during that decade.
-  * Histogram by genre - Returns a histogram with each genre pointing to the number of albums that are catagorized as being in that genre.
+  * Histogram by genre - Returns a histogram with each genre pointing to the number of albums that are categorized as being in that genre.
